@@ -1,9 +1,9 @@
-# CodTech Embedded Systems Tasks
+CodTech IT Solution - Embedded Systems Internship Tasks
 
-Here are the circuit designs and simulations for all 4 tasks performed on Proteus.
+Task 1: Push Button Counter & Temperature Monitoring using LM016L LCD & DHT22.
 
-## Task 1: Push Button & Temp Counter
-![Task 1 Circuit](Task1_Circuit.png)
+Task 2: Bluetooth Home Automation System using Virtual Terminal.
 
-## Task 2: Bluetooth Home Automation
-![Task 2 Circuit](Task2_Circuit.png)
+Task 3: Temperature Monitoring System using DHT11 & I2C LCD.
+
+Task 4: Command-Based Speech Recognition System simulation.
